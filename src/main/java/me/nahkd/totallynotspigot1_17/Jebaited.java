@@ -11,10 +11,10 @@ import javax.sound.sampled.SourceDataLine;
 public class Jebaited {
 
     public static void main(String[] args) {
-		System.out.println("Loading libraries, please wait...");
+        System.out.println("Loading libraries, please wait...");
 
         try {
-			Thread.sleep(5000);
+            Thread.sleep(5000);
 
             byte[] buffer;
             
