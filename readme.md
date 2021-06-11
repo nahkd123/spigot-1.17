@@ -1,4 +1,10 @@
-# Spigot 1.17
+# """Spigot 1.17"""
+Thanks for all the rages, but Spigot 1.17 is now officially available and can be obtained by using BuildTools!
+
+See [this](https://github.com/nahkd123/spigot-1.17/issues/8) for more information.
+
+---
+
 Hello and welcome, this is Spigot 1.17, which is basically Spigot 1.16 but it's patched to make it work with 1.17
 
 Actual build can be obtained by using official [BuildTools](https://ci.md-5.net/job/BungeeCord/)
